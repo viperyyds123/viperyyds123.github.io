@@ -4,8 +4,7 @@ title: 关于
 permalink: /about/
 ---
 
-This is the site from Viper! /
-A Software Enginner will share the Technical insights here. Any discussion is welcome! 
+Share the Technical and non-Technical insights here. Any discussion is welcome!  
 
 Contact me:  
 [github-page](https://viperyyds123.github.io)  
